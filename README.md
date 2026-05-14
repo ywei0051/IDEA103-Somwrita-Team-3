@@ -12,7 +12,7 @@
 
 Our team has chosen **Option 2: create an original piece**.
 
-### Vision (137 words)
+### Vision 
 
 We will build an interactive p5.js **starry aquarium** based on the **"starry ocean" visual style** of our core reference image - a deep navy field, silver-line drawings of whales, sharks, jellyfish, rays and turtles, and a dense scatter of tiny white stars. The mood sits between **a real aquarium tank** and **a night sky**, blurring the line between ocean and cosmos.
 
