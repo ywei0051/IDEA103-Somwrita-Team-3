@@ -40,15 +40,15 @@ Our direction is shaped by **online virtual museum experiences**. We saw the **B
 
 | Team Member | Mechanic |
 |---|---|
-| Member Yuzhu Wei | Audio Mechanic |
-| Member Menghao Li | Time-Based Mechanic |
-| Member Xuanning Jin | Perlin Noise and Randomness Mechanic |
-| Member Zihan Zhong | User Input Mechanic |
+|  Yuzhu Wei | Audio Mechanic |
+|  Menghao Li | Time-Based Mechanic |
+|  Xuanning Jin | Perlin Noise and Randomness Mechanic |
+|  Zihan Zhong | User Input Mechanic |
 
 ---
 
 ## Audio Mechanic — Reactive Ocean Soundscape  
-### Owned by: Member A
+### Owned by: Yuzhu Wei
 
 The audio mechanic uses music volume and frequency data to control the movement of the aquarium. Bass sounds create larger water waves and screen distortions, while higher frequencies make bubbles, fish, and particles move faster. The colours of the aquarium will also pulse gently with the rhythm of the soundtrack. Users interact with this mechanic by changing or playing music and observing how the underwater world reacts differently each time. This mechanic supports our vision by making the aquarium feel alive and emotionally connected to sound, turning the music into the “heartbeat” of the digital ocean.
 
@@ -62,7 +62,7 @@ The audio mechanic uses music volume and frequency data to control the movement 
 ---
 
 ## Time-Based Mechanic — Day and Night Cycle  
-### Owned by: Member B
+### Owned by: Menghao Li
 
 The time-based mechanic creates a changing underwater environment using timers and programmed events. The aquarium slowly transitions from bright daytime scenes into darker nighttime environments with glowing jellyfish and bioluminescent effects. Timed events such as fish schools, bubbles, and treasure chest animations will appear automatically throughout the experience. Users mainly observe these environmental changes over time, encouraging them to continue exploring the aquarium. This mechanic helps the project feel like a living ecosystem with natural cycles and changing moods rather than a static digital artwork.
 
@@ -76,7 +76,7 @@ The time-based mechanic creates a changing underwater environment using timers a
 ---
 
 ## Perlin Noise and Randomness Mechanic — Organic Movement  
-### Owned by: Member C
+### Owned by: Xuanning Jin
 
 This mechanic uses Perlin noise and random values to generate natural underwater movement. Fish, bubbles, and seaweed move using smooth flowing paths instead of repetitive animations, making the aquarium appear more realistic and organic. Random values control fish size, swimming speed, and spawning positions so that every viewing experience feels slightly different. Users interact indirectly by exploring an aquarium that constantly changes and never behaves exactly the same way twice. This mechanic supports our project vision by recreating the unpredictable and fluid motion of real ocean environments.
 
@@ -90,7 +90,7 @@ This mechanic uses Perlin noise and random values to generate natural underwater
 ---
 
 ## User Input Mechanic — Interactive Feeding System  
-### Owned by: Member D
+### Owned by: Zihan Zhong
 
 The user input mechanic allows users to interact directly with the aquarium using the mouse and keyboard. Clicking the mouse drops fish food into the water, causing nearby fish to swim toward the cursor. Dragging the mouse creates ripple effects that disturb the water and influence fish movement. Keyboard controls can also switch between different aquarium themes such as tropical reef or deep-sea mode. This mechanic makes the project more immersive by turning users from passive viewers into active participants within the underwater ecosystem.
 
