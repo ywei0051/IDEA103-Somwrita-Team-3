@@ -34,7 +34,7 @@ Our direction is shaped by **online virtual museum experiences**. We saw the **B
 
 > *Source: louvre.fr / Google Arts & Culture. Inspiration for the immersive single-window aesthetic - the whole exhibition lives inside one screen, and the user has full agency to look around. Our tank applies the same "exhibition through one window" logic.*
 
-# Part 2: Mechanics
+## Part 2: Mechanics
 
 ## Team Members and Responsibilities
 
