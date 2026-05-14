@@ -1,4 +1,4 @@
-# IDEA103-Somwrita-Team-3
+# IDEA103-Somwrita-Team-3-Quiz 9
 
 > Week 9 Quiz - Team Project Pitch
 > Project path: **Option 2 - Original work**
