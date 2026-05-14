@@ -100,3 +100,7 @@ The user input mechanic allows users to interact directly with the aquarium usin
 - Fish feeding systems  
 
 ![User Input Reference](readmeImages/user1.jpeg)
+
+## Part 3: Putting It Together
+
+All mechanics will share one canvas as a single underwater scene. The time-based system will control the overall atmosphere through a day and night cycle. Audio will affect waves, glow, and particle intensity. Perlin noise and randomness will create the natural movement of fish, jellyfish, bubbles, and water currents. User input will add direct interaction through feeding, ripples, and mouse-driven water movement. The project is held together by a consistent visual style: deep blue colours, glowing particles, smooth motion, and an abstract ocean atmosphere.
