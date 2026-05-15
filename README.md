@@ -104,3 +104,20 @@ The user input mechanic allows users to interact directly with the aquarium usin
 ## Part 3: Putting It Together
 
 All mechanics will share one canvas as a single underwater scene. The time-based system will control the overall atmosphere through a day and night cycle. Audio will affect waves, glow, and particle intensity. Perlin noise and randomness will create the natural movement of fish, jellyfish, bubbles, and water currents. User input will add direct interaction through feeding, ripples, and mouse-driven water movement. The project is held together by a consistent visual style: deep blue colours, glowing particles, smooth motion, and an abstract ocean atmosphere.
+
+## Images References
+
+Part 1:
+
+
+Part 2:
+Williams, M., & Williams, M. (2023, June 14). How to create timeless sonic branding. Creative Review. https://www.creativereview.co.uk/sonic-branding-molecular-sound/
+
+Jellyfish. (n.d.). Pinterest. https://au.pinterest.com/10ammy31/%E6%B0%B4%E6%AF%8D/
+
+Journey through living light with Submerged at SEA LIFE Melbourne Aquarium. (2025, March 22). SEA LIFE Melbourne Aquarium. https://www.visitsealife.com/melbourne/information/news/journey-through-living-light-with-submerged-at-sea-life-melbourne-aquarium/
+
+Ramalho, D. (2022, December 18). Perlin Noise - flow field. David’s Raging Nexus. https://ragingnexus.com/creative-code-lab/experiments/perlin-noise-flow-field/
+
+
+
