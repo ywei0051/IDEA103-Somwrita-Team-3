@@ -108,7 +108,9 @@ All mechanics will share one canvas as a single underwater scene. The time-based
 ## Images References
 
 Part 1:
+Cakir, A. (2022, May 9). Cosmic Ocean [Digital illustration]. Displate. https://displate.com/displate/5491899
 
+Musée du Louvre. (n.d.). Online tours. Retrieved May 16, 2026, from https://www.louvre.fr/en/online-tours
 
 Part 2:
 Williams, M., & Williams, M. (2023, June 14). How to create timeless sonic branding. Creative Review. https://www.creativereview.co.uk/sonic-branding-molecular-sound/
